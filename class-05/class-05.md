@@ -1,6 +1,6 @@
 # Class 05 reading notes
 
-**These are instructions how to upload your code to Visual Studio Code**
+**These are instructions how to open your code to Visual Studio Code**
 
 Click toggle intergrated terminal 
 
