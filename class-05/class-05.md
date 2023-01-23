@@ -36,3 +36,14 @@ git config user.name "bggr001"
 next bit 
 
 git push -u origin main then ENTER 
+
+_____________________________________________---
+acp 
+
+terminal go to : git SPACE add SPACE . then press ENTER
+
+git space commit -m "I changed capital C for class 7" press ENTER
+
+git SPACE push SPACE -u origin main PRESS ENTER
+
+
