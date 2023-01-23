@@ -18,3 +18,21 @@ LS and enter
 
 Files will come up 
 
+__________________________________________________________________________________________
+Putting your new code that you did in the visual studio code (code editor) back into the git hub
+
+git add . 
+
+git commit -m "im doing the git hub acp process"
+
+press 'enter'
+
+write your own email after user.email then press enter 
+
+when it is not saying anything it means that it is set 
+
+git config user.name "bggr001"
+
+next bit 
+
+git push -u origin main then ENTER 
