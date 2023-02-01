@@ -37,8 +37,7 @@ _____________________________________________
   <li>this is a list</li>
   </lu>
   
-  #heading class 08
-  _________________________________________________________--
+  # heading class 08
   JavaScript language inclusive console.log and prompts
   
   
