@@ -37,8 +37,16 @@ _____________________________________________
   <li>this is a list</li>
   </lu>
   
-  # heading class 08
+  # Class 07
+  Part 1 Javascript language which has and ID linked to a button and changing the HTML either by inner.html or stlye.
+  Part 2 first try of console.log and if condition with else
+  Event listener: onclick="clicking ()"
+  Event handler: function clicking 
+  
+  # Class 08
   JavaScript language inclusive console.log and prompts
+  console.log and if condition with else pracice 
+  
   
   
   
