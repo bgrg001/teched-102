@@ -1,1 +1,86 @@
 # Class 07 learning resources
+<!DOCTYPE html> 
+<html>
+
+  <head>
+
+    
+  </head>
+  
+  <body>
+
+    <h1 id="hello1">Hello world</h1>
+
+    <h1 id="hello2" style="color: blue">Hello world</h1>
+
+    <h1 id="hello3"> Hello world</h1>
+
+    <h1 id="hello4"> Hello world</h1>
+
+    <button onclick="cliked ()"> click </button>
+
+    <button onclick ="clicking()">About Me</button>
+    
+    <button onclick ="clicked ()">About you</button>
+
+    <script>
+    // JS logic goes here
+        
+      function cliked () {
+        document.getElementById('hello1').innerHTML = "hello everyone";
+      document.getElementById('hello2').innerHTML = "hello everyone again";
+      document.getElementById('hello3').style.color = "red"; 
+        document.getElementById('hello4').style.color = "purple";
+        document.getElementById('hello4').innerHTML = "the world is ending"; 
+      }
+function clicking () {
+  document.getElementById('hello1'). innerHTML = "George";
+  document.getElementById('hello2').innerHTML = "plays";
+  document.getElementById('hello3').innerHTML = "rugby";
+
+
+        var a = 1; 
+        var b = 2;  
+
+        console.log ('check point 1');
+
+        var c = a + b;
+
+        console.log(c);
+        
+        console.log('check point 2'); 
+
+        prompt('Enter your name');
+
+        var firstname = prompt('enter your first name');
+        var secondName = prompt('Enter your second name');
+        var age = prompt( 'Enter your age');
+        var location = prompt ('Enter your location');
+        console.log(firstname + secondName + "is" + age + "is an absolute legend")
+
+        //conditions
+        if(firstname == "George"){
+          console.log('hey George, welcome back');
+        } else {
+          console.log('hey this is not George, so get off this computer');
+        }
+          
+
+        if(age == "30"){
+          console.log('Life has just begun gurllllll');
+        }
+
+        //location
+        if(location == "London"){
+          console.log('It is currently -2c in London');
+        }
+        if(location == "Norwich"){
+          console.log('It is currently -1c in Norwich');
+        }
+        
+      }
+  </script>
+
+    
+  </body>
+</html>
