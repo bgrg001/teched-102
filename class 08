@@ -1,0 +1,54 @@
+<DOCTYPE HTML!>
+  <html>
+    <head>
+      
+    </head>
+    <body>
+      
+<h1>Hello world</h1>
+      
+      <button onclick="clicking ()">Click here</button>
+      <button onclick="clicked ()">click here at your peril</button>
+
+      <script>
+        //JS logic goes here 
+
+console.log ("check point 1"); 
+        
+          function clicking (){
+
+          var firstname = prompt ("Tell me your first name");
+          var lastname = prompt ("and your last name");
+            
+          var age = prompt ("what's my age again?");
+            
+          var location = prompt ("where do you live currently?");
+
+        if (firstname == "George"){
+          console.log ("you're home, jedi")
+        }
+            if( age == "30"){
+              console.log ("you're a young Jedi, arent you...")
+            }
+
+            if (lastname == "Green"){
+              console.log ("you're a master jedi")
+            }else {console.log("you're a sith!")
+            }
+          }
+        
+        function clicked (){
+
+          var sithlord = prompt ("are you a sith lord?");
+          var war = prompt ("are you going to start a war?");
+
+          if (sithlord == "yes"){
+            console.log ("welcome back my lord")
+          }else {console.log ("JEDI SCUM!")}
+          
+        }
+        
+      </script>
+      
+    </body>
+  </html>
