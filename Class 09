@@ -1,3 +1,4 @@
+```
 body = 
 class="fizwizz"
 
@@ -22,3 +23,4 @@ color: purple
 function changecolor(){
 document.getelementID.("mymindgoesblank");
 }
+```
