@@ -1,0 +1,24 @@
+body = 
+class="fizwizz"
+
+<h1 class="fizwizz">hello huns</h1>
+
+<script> 
+.fizzwizz {
+color: green;
+font-family: monospace;
+border
+
+Note: class for group changes of the same
+
+# individual change
+use the ID element once 
+
+<style>
+#mymindhasgoneblank {
+color: purple
+</style>
+
+function changecolor(){
+document.getelementID.("mymindgoesblank");
+}
