@@ -22,15 +22,21 @@
     
      console.log(document);
 
+
+// numeric data type 
     var paisley = 1.2
     console.log (typeof(paisley));
 
+
+//boolean data type
 var jane = true; 
     console.log (typeof(jane));
 
+//function data type
     var george = function rugby(){console.log ('rugby')}
 console.log(george);
 
+//object data type
     var carla = document;
     console.log(typeof(carla));
 
